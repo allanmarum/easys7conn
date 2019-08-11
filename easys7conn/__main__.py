@@ -6,5 +6,5 @@
 """
 
 if __name__ == "__main__":
-    from .uci import main
+    from .app import main
     main()

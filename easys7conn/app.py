@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 
-    easys7conn.uci
+    easys7conn.app
 
-    The Unified Controller Interface to manage requests and PLC connection.
+    The Restful API. 
 
 """
 
